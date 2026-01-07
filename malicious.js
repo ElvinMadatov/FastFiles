@@ -1,0 +1,1 @@
+self.wfile.write(b"alert("KEEP YOUR LIBRARIES UP TO DATE");")
